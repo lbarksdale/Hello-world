@@ -1,4 +1,2 @@
 # Hello-world
-test
-
-What does this do?
+This project is the practice repository recommended by GitHub.
