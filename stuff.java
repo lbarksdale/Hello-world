@@ -4,5 +4,6 @@ public class stuff
   {
     System.out.print("Hello World");
     System.out.println("This is a change from the master");
+    System.out.println("This message is testing commit messages");
   }
 }  
